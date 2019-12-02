@@ -5,6 +5,7 @@ Simple tile game where the user uses the arrow keys to navigate randomly generat
 Easy[0]: 
 - Level will generate straight sections at 2x base rate. 
 - Deadline is 2x slower then base scale.
+
 Normal[1]: 
 - Level will generate straight sections at base rate. 
 - Deadline is base scale.
